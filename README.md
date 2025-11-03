@@ -54,6 +54,7 @@
 #### Choisir la méthode d'analyse
 
 - Sur la page **"Choose how to analyze your project"**, sélectionnez **"With GitHub Actions"**.
+- dépot -> Administration / Analysis Method ->Analyze a project with GitHub Actions
 
 #### Suivre les instructions de SonarCloud pour configurer l'analyse
 
